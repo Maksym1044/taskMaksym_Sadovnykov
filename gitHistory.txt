@@ -2,3 +2,15 @@ On branch master
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
         gitHistory.txt
+
+commit 92c983898767e462465b4ae287196e16cb874ec7 (HEAD -> master)
+Author: Maksym_Sadovnykov <maksymsadovnykov@gmail.com>
+Date:   Sun Mar 17 16:35:59 2024 +0200
+
+    Added gitHistory.txt
+
+commit 90c7d848e752e0623ddf4f13134a8756b155334e
+Author: Maksym_Sadovnykov <maksymsadovnykov@gmail.com>
+Date:   Sun Mar 17 16:32:57 2024 +0200
+
+    Have written the contents of the git object and git status  to a Readme.txt
